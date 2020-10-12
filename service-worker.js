@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/commathproject/precache-manifest.369202d6f9278045a02c908a1149f94a.js"
+  "/commathproject/precache-manifest.264408d704ac3e233b88ffbda9de3b10.js"
 );
 
 self.addEventListener('message', (event) => {
