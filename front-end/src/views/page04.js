@@ -3,7 +3,7 @@ import React from 'react'
 function Page04() {
     return (
         <div>
-            บทที่ 4
+            4.Differentiation
         </div>
     )
 }

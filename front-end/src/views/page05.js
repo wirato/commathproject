@@ -3,7 +3,7 @@ import React from 'react'
 function Page05() {
     return (
         <div>
-            บทที่ 5
+            5.Integration
         </div>
     )
 }

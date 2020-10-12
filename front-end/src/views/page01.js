@@ -3,7 +3,7 @@ import React from 'react'
 function Page01() {
     return (
         <div>
-            บทที่ 1
+            1.Basic Computing
         </div>
     )
 }

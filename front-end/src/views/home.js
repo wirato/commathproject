@@ -15,22 +15,22 @@ function Home() {
   return (
     <div>
         <Button onClick={()=>{nextPage("page01")}} color="primary">
-            <h5>บทที่ 1</h5>
+            <h5>1.Basic Computing</h5>
         </Button><br/>
         <Button onClick={()=>{nextPage("page02")}} color="primary">
-            <h5>บทที่ 2</h5>
+            <h5>2.Linear Equations</h5>
         </Button><br/>
         <Button onClick={()=>{nextPage("page03")}} color="primary">
-            <h5>บทที่ 3</h5>
+            <h5>3.Interpolation	</h5>
         </Button><br/>
         <Button onClick={()=>{nextPage("page04")}} color="primary">
-            <h5>บทที่ 4</h5>
+            <h5>4.Differentiation</h5>
         </Button><br/>
         <Button onClick={()=>{nextPage("page05")}} color="primary">
-            <h5>บทที่ 5</h5>
+            <h5>5.Integration	</h5>
         </Button><br/>
         <Button onClick={()=>{nextPage("page06")}} color="primary">
-            <h5>บทที่ 6</h5>
+            <h5>6.Root-finding</h5>
         </Button><br/>
         
     </div>
