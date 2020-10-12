@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/commathproject/static/css/main.5f361e03.chunk.css",
-    "main.js": "/commathproject/static/js/main.563688a1.chunk.js",
-    "main.js.map": "/commathproject/static/js/main.563688a1.chunk.js.map",
+    "main.js": "/commathproject/static/js/main.e421c2ae.chunk.js",
+    "main.js.map": "/commathproject/static/js/main.e421c2ae.chunk.js.map",
     "runtime-main.js": "/commathproject/static/js/runtime-main.c96b9898.js",
     "runtime-main.js.map": "/commathproject/static/js/runtime-main.c96b9898.js.map",
-    "static/js/2.dd92ba6a.chunk.js": "/commathproject/static/js/2.dd92ba6a.chunk.js",
-    "static/js/2.dd92ba6a.chunk.js.map": "/commathproject/static/js/2.dd92ba6a.chunk.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/commathproject/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.23513a75.chunk.js": "/commathproject/static/js/2.23513a75.chunk.js",
+    "static/js/2.23513a75.chunk.js.map": "/commathproject/static/js/2.23513a75.chunk.js.map",
     "index.html": "/commathproject/index.html",
-    "precache-manifest.acc2cf132fd657d042b96094ec05fdb6.js": "/commathproject/precache-manifest.acc2cf132fd657d042b96094ec05fdb6.js",
+    "precache-manifest.f310151c42a0f4898e3597252ec72d3b.js": "/commathproject/precache-manifest.f310151c42a0f4898e3597252ec72d3b.js",
     "service-worker.js": "/commathproject/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/commathproject/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/commathproject/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.dd92ba6a.chunk.js.LICENSE.txt": "/commathproject/static/js/2.dd92ba6a.chunk.js.LICENSE.txt",
+    "static/js/2.23513a75.chunk.js.LICENSE.txt": "/commathproject/static/js/2.23513a75.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/commathproject/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c96b9898.js",
-    "static/js/2.dd92ba6a.chunk.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.23513a75.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.563688a1.chunk.js"
+    "static/js/main.e421c2ae.chunk.js"
   ]
 }
