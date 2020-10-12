@@ -36,9 +36,9 @@ function App() {
           <Home/>
         </Route>
         
-        <Route path="/">
+        {/* <Route path="/">
           <Redirect to="/commathproject/home" />
-        </Route>
+        </Route> */}
 
       </Switch>
     </BrowserRouter>
