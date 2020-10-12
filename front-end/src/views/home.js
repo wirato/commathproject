@@ -29,7 +29,7 @@ function Home() {
         <Button onClick={()=>{nextPage("page05")}} color="primary">
             <h5>บทที่ 5</h5>
         </Button><br/>
-        <Button onClick={()=>{nextPage("page05")}} color="primary">
+        <Button onClick={()=>{nextPage("page06")}} color="primary">
             <h5>บทที่ 6</h5>
         </Button><br/>
         

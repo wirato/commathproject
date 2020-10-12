@@ -3,7 +3,7 @@ import React from 'react'
 function Page05() {
     return (
         <div>
-            บทที่ 1
+            บทที่ 5
         </div>
     )
 }
