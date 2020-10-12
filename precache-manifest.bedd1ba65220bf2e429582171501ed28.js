@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c41fd545d2afd73488f1fdf01f8a1f55",
+    "revision": "bc2b3f3fe237017cd13bbc05abead8e8",
     "url": "/commathproject/index.html"
   },
   {
-    "revision": "d40f4b6934aae704bed4",
+    "revision": "e74a96eac526ada5e7dd",
     "url": "/commathproject/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "38cc277e016558647d6d",
-    "url": "/commathproject/static/js/2.dd92ba6a.chunk.js"
+    "revision": "e06dd1df65bb036b57f7",
+    "url": "/commathproject/static/js/2.a62f33f0.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/commathproject/static/js/2.dd92ba6a.chunk.js.LICENSE.txt"
+    "url": "/commathproject/static/js/2.a62f33f0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d40f4b6934aae704bed4",
-    "url": "/commathproject/static/js/main.563688a1.chunk.js"
+    "revision": "e74a96eac526ada5e7dd",
+    "url": "/commathproject/static/js/main.b10f653a.chunk.js"
   },
   {
     "revision": "6da544f8d5c4df14080a",
