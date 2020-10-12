@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default function page01() {
+function Page02() {
     return (
         <div>
             บทที่ 2
         </div>
     )
 }
+
+export default Page02;

@@ -1,17 +1,40 @@
-import React from 'react'
+import React from "react";
+import { CardTitle, CardText, Row, Col, Button, Card } from "reactstrap";
+import "../App.css";
+// import { Link } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
-export default function page01() {
-    return (
-        <div className="shopping-list">
-        <h1>Com Math</h1>
-        <ul>
-          <li><a href="/commathproject/page01">บทที่ 1</a></li>
-          <li><a href="/commathproject/page02">บทที่ 2</a></li>
-          <li><a href="/commathproject/page03">บทที่ 3</a></li>
-          <li><a href="/commathproject/page04">บทที่ 4</a></li>
-          <li><a href="/commathproject/page05">บทที่ 5</a></li>
-          <li><a href="/commathproject/page06">บทที่ 6</a></li>
-        </ul>
-      </div>
-    )
+
+function Home() {
+  const navigate = useNavigate();
+
+  const nextPage = (page) => {
+    navigate("/"+page);
+  }
+
+  return (
+    <div>
+        <Button onClick={()=>{nextPage("page01")}} color="primary">
+            <h5>บทที่ 1</h5>
+        </Button><br/>
+        <Button onClick={()=>{nextPage("page02")}} color="primary">
+            <h5>บทที่ 2</h5>
+        </Button><br/>
+        <Button onClick={()=>{nextPage("page03")}} color="primary">
+            <h5>บทที่ 3</h5>
+        </Button><br/>
+        <Button onClick={()=>{nextPage("page04")}} color="primary">
+            <h5>บทที่ 4</h5>
+        </Button><br/>
+        <Button onClick={()=>{nextPage("page05")}} color="primary">
+            <h5>บทที่ 5</h5>
+        </Button><br/>
+        <Button onClick={()=>{nextPage("page05")}} color="primary">
+            <h5>บทที่ 6</h5>
+        </Button><br/>
+        
+    </div>
+  );
 }
+
+export default Home;
