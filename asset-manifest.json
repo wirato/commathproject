@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/commathproject/static/css/main.5f361e03.chunk.css",
-    "main.js": "/commathproject/static/js/main.ece1e0f3.chunk.js",
-    "main.js.map": "/commathproject/static/js/main.ece1e0f3.chunk.js.map",
+    "main.js": "/commathproject/static/js/main.563688a1.chunk.js",
+    "main.js.map": "/commathproject/static/js/main.563688a1.chunk.js.map",
     "runtime-main.js": "/commathproject/static/js/runtime-main.c96b9898.js",
     "runtime-main.js.map": "/commathproject/static/js/runtime-main.c96b9898.js.map",
     "static/js/2.dd92ba6a.chunk.js": "/commathproject/static/js/2.dd92ba6a.chunk.js",
     "static/js/2.dd92ba6a.chunk.js.map": "/commathproject/static/js/2.dd92ba6a.chunk.js.map",
     "index.html": "/commathproject/index.html",
-    "precache-manifest.eaf3b406ea3947b5361f8e7900410180.js": "/commathproject/precache-manifest.eaf3b406ea3947b5361f8e7900410180.js",
+    "precache-manifest.acc2cf132fd657d042b96094ec05fdb6.js": "/commathproject/precache-manifest.acc2cf132fd657d042b96094ec05fdb6.js",
     "service-worker.js": "/commathproject/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/commathproject/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.dd92ba6a.chunk.js.LICENSE.txt": "/commathproject/static/js/2.dd92ba6a.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c96b9898.js",
     "static/js/2.dd92ba6a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ece1e0f3.chunk.js"
+    "static/js/main.563688a1.chunk.js"
   ]
 }
