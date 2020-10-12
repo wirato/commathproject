@@ -1,25 +1,53 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Home from './views/home'
+import Page01 from './views/page01'
+import Page02 from './views/page02'
+import Page03 from './views/page03'
+import Page04 from './views/page04'
+import Page05 from './views/page05'
+import Page06 from './views/page06'
+import { BrowserRouter, Switch, Route, Redirect } from 'react-router-dom';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <Switch>
+        <Route path="/page01">
+          <Page01/>
+        </Route>
+        <Route path="/page01">
+          <Page01/>
+        </Route>
+        <Route path="/page01">
+          <Page01/>
+        </Route>
+        <Route path="/page02">
+          <Page02/>
+        </Route>
+        <Route path="/page03">
+          <Page03/>
+        </Route>
+        <Route path="/page04">
+          <Page04/>
+        </Route>
+        <Route path="/page05">
+          <Page05/>
+        </Route>
+        <Route path="/page06">
+          <Page06/>
+        </Route>
+        <Route path="/home">
+          <Home/>
+        </Route>
+        
+        <Route path="/">
+          <Redirect to="/home" />
+        </Route>
+
+      </Switch>
+    </BrowserRouter>
   );
 }
 
